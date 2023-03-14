@@ -1,0 +1,19 @@
+body {
+    margin: 10px;
+}
+
+div {
+    margin-top: 10px;
+}
+
+textarea,
+button,
+label,
+input {
+  margin: 0 10px;
+}
+
+label,
+button {
+  margin-top: 10px;
+}
